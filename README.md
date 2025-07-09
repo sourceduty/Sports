@@ -37,3 +37,7 @@ Motorsports encompass a wide range of competitive events involving motorized veh
 [Automated Sport](https://chatgpt.com/g/g-6775e22d24ec81918e34f1b6078a389a-automated-sport)
 <br>
 [Sports Hacker](https://chatgpt.com/g/g-67add266555c819196313fb5740fe865-sports-hacker)
+<br>
+[Games](https://github.com/sourceduty/Games)
+<br>
+[Groups & Teams](https://github.com/sourceduty/Groups_Teams)
